@@ -1,0 +1,7 @@
+[
+    {
+        "table": "resource_entry",
+        "schema": "apiserver",
+        "columns": "*"
+    }
+]
